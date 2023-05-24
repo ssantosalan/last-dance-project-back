@@ -17,6 +17,8 @@ Java web project
 
 ## Project
 
+![Screenshot 2023-05-24 at 19 41 13](https://github.com/ssantosalan/last-dance-project-back/assets/79291946/5c7d9642-68ce-4909-a3e7-829b649ab144)
+
 
 ## What are we using in this project?
 - Java
